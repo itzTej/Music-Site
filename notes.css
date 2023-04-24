@@ -1,0 +1,26 @@
+
+/* colors: */
+
+    TOOLS: COOLORS
+
+    background :
+    background-color :
+    color :
+    rgba() alpha channel-> serves tranparency 0 to 1
+    hsl(hue, saturation, lightness) -> in terms of percentges
+
+/* colors */
+
+/*  units and sizes */
+
+    by default 16px 
+    font-size:
+    border:
+    width:
+    height:
+    padding:
+    /* padding and borders are includede in the box itself */
+    box-sizing: border-box,content-box;
+    min-height:
+
+/* units and sizes */
